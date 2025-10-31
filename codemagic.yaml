@@ -20,11 +20,11 @@ workflows:
 
         distribution_type: app_store
 
-        bundle_identifier: io.codemagic.sample.iosnative
+        bundle_identifier: QuantumBoy65
 
       vars:
 
-        BUNDLE_ID: "io.codemagic.sample.iosnative"
+        BUNDLE_ID: "QuantumBoy6"
 
         XCODE_WORKSPACE: "CodemagicSample.xcworkspace" # <-- Put the name of your Xcode workspace here
 
